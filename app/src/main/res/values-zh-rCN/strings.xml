@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">aula1</string>
+    <string name="food" translatable="false">中國菜</string>
+    <string name="country" translatable="false">中國</string>
+</resources>

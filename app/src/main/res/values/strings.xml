@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">aula1</string>
+    <string name="food" translatable="false">Chinese Food</string>
+    <string name="country" translatable="false">China</string>
+</resources>
